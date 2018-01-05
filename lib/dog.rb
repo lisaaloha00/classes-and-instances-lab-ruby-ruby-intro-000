@@ -1,4 +1,4 @@
-class 
+class radio_button_tag
 end
 
   
